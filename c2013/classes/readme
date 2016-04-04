@@ -1,0 +1,4 @@
+课程名
+homework ID（作业安排，对应homework目录内容）
+exam IDs（考试安排，一行内多个，对应exams目录内容）
+学生ID列表 (多行，对应students目录内容)
